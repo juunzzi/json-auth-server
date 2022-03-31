@@ -10,4 +10,4 @@ app.db = router.db;
 // You must apply the auth middleware before the router
 app.use(auth);
 app.use(router);
-app.listen(3000);
+app.listen(process.env.PORT || 5000);
