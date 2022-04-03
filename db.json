@@ -1,9 +1,28 @@
 {
   "users": [
     {
-      "email": "olivier1124124@mail.com",
-      "password": "$2a$10$4VkUtRllq48ynTJ1VIk.eexOX92lgPYme6urCIiXIHuj8TKIM4LQi",
+      "email": "wnsgur839@naver.com",
+      "password": "$2a$10$c4vbnI/oUP/WZa3CbaSp5ussAvzoBlrTDAFdP.9EL1COcHHalRuwW",
+      "name": "아임찌",
       "id": 1
+    },
+    {
+      "email": "wnsgur839@naver.c",
+      "password": "$2a$10$LQ4TdbJJ3/oiyNFgDsmb6enqIYgWScGhiHBeD1SSm1Vri/hG7MBaC",
+      "name": "준찌",
+      "id": 2
+    },
+    {
+      "email": "wnsgur839@nver.com",
+      "password": "$2a$10$alHaZBHOHAWwUvJ260O.GuBvzkY9y0A47nsl4ZsqokzfUAqnpthqG",
+      "name": "준찌",
+      "id": 3
+    },
+    {
+      "email": "wnsgur8397@naver.com",
+      "password": "$2a$10$bnbCFp1UBZ0JqXAxWUJevOvv/HTYG7qljWIkeekJp/ryANthQ2qFe",
+      "name": "준구리",
+      "id": 4
     }
   ]
 }
